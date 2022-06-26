@@ -276,5 +276,5 @@
 		
 	</body>
 
-<!-- doccure/checkout.html  30 Nov 2019 04:12:16 GMT -->
+
 </html>

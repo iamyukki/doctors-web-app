@@ -99,6 +99,7 @@
                                         $hospital_from,
                                         $hospital_to,
                                         $designation)){
+                                            
                 $this->setErrorMsg("All inputs must be filled");
                 return;
             }

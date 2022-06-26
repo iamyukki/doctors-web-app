@@ -14,6 +14,7 @@
 <html lang="en">
 	
 <?php include 'head.php'; ?>
+
 	<body>
 
 		<!-- Main Wrapper -->
@@ -106,5 +107,5 @@
 		
 	</body>
 
-<!-- doccure/doctor-change-password.html  30 Nov 2019 04:12:36 GMT -->
+
 </html>

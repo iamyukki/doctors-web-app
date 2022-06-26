@@ -6,10 +6,10 @@
 <!DOCTYPE html> 
 <html lang="en">
 	
-<!-- doccure/reviews.html  30 Nov 2019 04:12:15 GMT -->
+
 <head>
 		<meta charset="utf-8">
-		<title>Doccure</title>
+		<
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
 		
 		<!-- Favicons -->
@@ -425,5 +425,5 @@
 		
 	</body>
 
-<!-- doccure/reviews.html  30 Nov 2019 04:12:15 GMT -->
+
 </html>
